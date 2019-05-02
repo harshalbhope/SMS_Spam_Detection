@@ -1,5 +1,5 @@
 # SMS_Spam_Detection
-Using Machine Learning algorithms sms spams are detected.
+Using Machine Learning algorithms.
 
 ## Technology Used
 1. Onevsrestclassifier algorithm
