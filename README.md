@@ -7,7 +7,8 @@ Technology Used:
 3. Flask
 4. HTML/CSS
 
-Installation
+##Installation
+
 1.Pandas
 
 ```
@@ -19,7 +20,7 @@ pip install pandas
 pip install flask
 ```
 
-Run=ning the python file:
+##Running the python file:
 
 Unix Bash (Linux, Mac, etc.):
 ```
