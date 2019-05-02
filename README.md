@@ -37,3 +37,13 @@ Windows PowerShell:
 > $env:FLASK_APP = "apk"
 > flask run
 ```
+
+## Images
+
+![alt text](https://github.com/harshalbhope/SMS_Spam_Detection/blob/master/templates/dd.jpg)
+
+![alt text](https://github.com/harshalbhope/SMS_Spam_Detection/blob/master/templates/ddd.jpg)
+
+![alt text](https://github.com/harshalbhope/SMS_Spam_Detection/blob/master/templates/dddd.jpg)
+
+![alt text](https://github.com/harshalbhope/SMS_Spam_Detection/blob/master/templates/ddddd.jpg)
